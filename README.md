@@ -42,6 +42,11 @@
 
 ---
 
+<img width="1859" height="870" alt="Captura de pantalla 2026-02-10 195820" src="https://github.com/user-attachments/assets/2e0c734d-5376-42a1-a090-33d43754f7e8" />
+<img width="1864" height="857" alt="Captura de pantalla 2026-02-10 195850" src="https://github.com/user-attachments/assets/50847650-0615-4d8a-b555-880f482c50f7" />
+<img width="1843" height="800" alt="Captura de pantalla 2026-02-10 195911" src="https://github.com/user-attachments/assets/76d517f5-7f74-4d6b-9011-2d63c9afa398" />
+<img width="1858" height="852" alt="Captura de pantalla 2026-02-10 200012" src="https://github.com/user-attachments/assets/82683685-af70-40dd-ac1c-686a1d628148" />
+<img width="1494" height="710" alt="Captura de pantalla 2026-02-10 200034" src="https://github.com/user-attachments/assets/bda203cd-27e3-466b-8ec3-c2b572b3c05d" />
 
 
 
