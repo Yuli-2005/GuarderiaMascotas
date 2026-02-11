@@ -5,11 +5,11 @@
 @section('contenido')
 <div class="row justify-content-center">
     <div class="col-md-8">
-        {{-- Tarjeta con efecto Glassmorphism --}}
+      
         <div class="card shadow-lg border-0" style="background: rgba(255, 255, 255, 0.95); border-radius: 20px;">
             <div class="card-body p-4 p-md-5">
                 
-                {{-- Encabezado con el nombre --}}
+            
                 <div class="d-flex justify-content-between align-items-center mb-4 border-bottom pb-3">
                     <div>
                         <h1 class="fw-bold text-primary mb-0">{{ $mascota->nombre_mascota }}</h1>
@@ -65,7 +65,7 @@
                     </div>
                 </div>
 
-                {{-- Botones de acción con texto --}}
+         
                 <div class="mt-5 d-flex flex-wrap gap-2">
                     <a href="{{ route('mascotas.index') }}" class="btn btn-secondary px-4 fw-bold shadow-sm">
                          Volver al Listado
