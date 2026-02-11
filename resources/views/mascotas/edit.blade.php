@@ -5,7 +5,7 @@
 @section('contenido')
 <div class="row justify-content-center">
     <div class="col-md-10">
-        {{-- Tarjeta con diseño profesional --}}
+       
         <div class="card shadow-lg border-0" style="background: rgba(255, 255, 255, 0.95); border-radius: 15px;">
             <div class="card-body p-5">
                 <h1 class="text-dark fw-bold mb-4">Editar Datos de {{ $mascota->nombre_mascota }}</h1>
@@ -43,7 +43,7 @@
                                 </select>
                             </div>
 
-                            {{-- Campo dinámico para "Otro" --}}
+                          
                             <div class="mb-3 {{ $esOtro ? '' : 'd-none' }}" id="input_otro">
                                 <label class="form-label text-dark fw-bold">Especifique el animal *</label>
                                 <input type="text" name="{{ $esOtro ? 'tipo_animal' : 'otro_tipo' }}" id="otro_tipo" 
