@@ -41,7 +41,7 @@
 **Razón:**Para borrar errores o datos muy viejos; normalmente solo cambiamos el estado para llevar el control sin perder la información.
 
 ---
-
+## 4. imagenes
 <img width="1859" height="870" alt="Captura de pantalla 2026-02-10 195820" src="https://github.com/user-attachments/assets/2e0c734d-5376-42a1-a090-33d43754f7e8" />
 <img width="1864" height="857" alt="Captura de pantalla 2026-02-10 195850" src="https://github.com/user-attachments/assets/50847650-0615-4d8a-b555-880f482c50f7" />
 <img width="1843" height="800" alt="Captura de pantalla 2026-02-10 195911" src="https://github.com/user-attachments/assets/76d517f5-7f74-4d6b-9011-2d63c9afa398" />
