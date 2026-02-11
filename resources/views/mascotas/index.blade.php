@@ -4,7 +4,7 @@
 
 @section('contenido')
 <style>
-    /* Estilo de tarjetas tipo "Glass" */
+    
     .pet-card {
         background: rgba(255, 255, 255, 0.95);
         backdrop-filter: blur(10px);
@@ -34,7 +34,7 @@
         text-shadow: 2px 2px 4px rgba(0,0,0,0.5);
     }
 
-    /* Estilo para los textos de los botones */
+    
     .btn-text {
         font-weight: 600;
         font-size: 0.85rem;
@@ -53,7 +53,7 @@
         </a>
     </div>
 
-    {{-- Grid Adaptable --}}
+   
     <div class="row g-4">
         @foreach ($mascotas as $mascota)
             <div class="col-12 col-md-6 col-lg-4">
