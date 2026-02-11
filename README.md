@@ -38,7 +38,7 @@
 ## 3. ¿Se puede eliminar registros? 
 **Respuesta:** Sí.
 
-**Razón:** Se permite la eliminación física de registros para depurar datos obsoletos o erróneos del sistema, optimizando el almacenamiento cuando una mascota ya no frecuenta el hospedaje.
+**Razón:**Para borrar errores o datos muy viejos; normalmente solo cambiamos el estado para llevar el control sin perder la información.
 
 ---
 
